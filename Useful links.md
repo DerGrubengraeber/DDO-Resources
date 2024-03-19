@@ -1,6 +1,6 @@
 # Discord Servers: 
 [Ghallanda Raid Group](https://discord.gg/6GWFaPQwx2)
-[BOIS Server](https://discord.gg/bois)
+[BOIS Server](https://discord.gg/bois) //
 [DDO Community Server](https://discord.gg/ddo)
 
 
