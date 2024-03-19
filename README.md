@@ -1,1 +1,1 @@
-# Nothing here yet except [Quest Order](https://github.com/DerGrubengraeber/DDO-Resources/blob/main/Quest%20Order.md) and [Useful links].
+# Nothing here yet except [Quest Order](https://github.com/DerGrubengraeber/DDO-Resources/blob/main/Quest%20Order.md) and [Useful links](https://github.com/DerGrubengraeber/DDO-Resources/blob/main/Useful%20links.md).
