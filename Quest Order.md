@@ -1,5 +1,4 @@
-Ideally you want to do all of these on Elite or Reaper (which will raise the level by 2) but if you are not VIP you should(tm) be fine doing them on normal.
-
+Ideally you want to do all of these on Elite or Reaper (which will raise the level by 2) but if you are not VIP you should(tm) be fine doing them on normal. You probably won't be able to skip many tho.
 | Quest (Chain)                                                                     | Base Level | Expansion? | Item Info And Other Notes                                                         |
 | --------------------------------------------------------------------------------- | ---------- | ---------- | --------------------------------------------------------------------------------- |
 | [Borderlands](https://ddowiki.com/page/Keep_on_the_Borderlands)                   | 1-2        | No         |                                                                                   |
