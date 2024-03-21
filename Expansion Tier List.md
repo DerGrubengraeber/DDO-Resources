@@ -5,7 +5,7 @@ The Higher Tier Expansion Packs are really good but probably not worth the price
 Total Xp is coming soon(tm).
 # Expansion Packs
 ## Vecna Unleashed
-**Base Pack Cost:** 19€
+**Base Pack Cost:** 19€<br>
 **DDO Point Cost: **1.999
 **Quest Levels:** 18 Heroic / 34 Legendary
 **Quest Amount:** 13 Quests + 1 Raid
