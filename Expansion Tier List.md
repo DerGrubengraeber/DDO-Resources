@@ -6,11 +6,11 @@ Total Xp is coming soon(tm).
 # Expansion Packs
 ## Vecna Unleashed
 **Base Pack Cost:** 19€ <br>
-**DDO Point Cost: **1.999
+**DDO Point Cost:** 1.999
 **Quest Levels:** 18 Heroic / 34 Legendary
 **Quest Amount:** 13 Quests + 1 Raid
 **Items:** Some insane ones for Spellcasters
-**Total Xp On Elite: **
+**Total Xp On Elite:**
 **Overall Recommendation:** High
 
 ## Isle Of Dread
