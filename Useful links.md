@@ -1,7 +1,8 @@
 A probably more up to date list can be found [here](https://discord.gg/ddo).
 # Discord Servers: 
 - [Ghallanda Raid Group](https://discord.gg/6GWFaPQwx2)
-- [BOIS Server](https://discord.gg/bois) 
+- [BOIS Server](https://discord.gg/bois)
+- [Official DDO Discord Server](https://discord.gg/rDnTxxQYAM)
 - [DDO Community Server](https://discord.gg/ddo)
 - [Strimtom's](https://discord.gg/Zgh9VSx)
 
